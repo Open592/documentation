@@ -8,7 +8,7 @@ The goal of this document is to give an overview of the usage of the `jav_config
 ### Disclaimer
 All information used to construct this document came from reverse engineering the Jagex Applet Viewer delivered within the download section of runescape.com as it appeared on July 18th 2010. This __Does not__ necessarily align with the more recent parsing logic implemented in newer versions of RuneScape or OldSchool Runescape.
 
-### Quick overview of applet viewer invokation
+### Quick overview of applet viewer invocation
 Starting in 2010 Jagex supplied users the option to download a executable which would launch Runescape from their desktop (instead of as an `<Applet />` loading in the browser). In order to support this the following components are required:
 
 - Launcher
@@ -179,9 +179,9 @@ You will see the following dialog when attempting to switch servers
 
 ### Locale strings
 
-The `jav_config` configuration file provides the ability to implement rudementary localization with the usage of "locale strings". These are configuration items with the following format:
+The `jav_config` configuration file provides the ability to implement rudimentary localization with the usage of "locale strings". These are configuration items with the following format:
 
-`msg=<key>=<value`
+`msg=<key>=<value>`
 
 And are used for all user facing strings within the applet viewer
 
