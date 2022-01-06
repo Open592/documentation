@@ -1,4 +1,4 @@
-# Jav Config overview
+# `jav_config.ws` overview
 
 ## Introduction
 The goal of this document is to give an overview of the usage of the `jav_config.ws` file and it's format. I hope that once you read this you will have a better understanding of how the game client is initialized and configured, as well as a better understanding of the AppletViewer parsing code.
