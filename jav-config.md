@@ -137,6 +137,7 @@ servername=Human readable server name
 # ... Everything after here will override the top level configuration
 ```
 By adding two or more server blocks you will be presented with an additional link within the applet viewer, which allows switching between the servers:
+
 ![Switch server option](https://user-images.githubusercontent.com/2308484/148379231-32230139-a95b-4280-b019-c27b450a3799.png)
 
 The content for this link is loaded from `msg=switchserver`
