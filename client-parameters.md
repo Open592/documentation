@@ -13,6 +13,7 @@ The cache folder name is constructing using the following logic:
 `.jagex_cache_<32 + modewhat>`
 
 ### Loader
+The loader uses this parameter for the same purpose as the Applet Viewer
 
 ### Client
 
